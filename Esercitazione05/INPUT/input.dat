@@ -1,0 +1,14 @@
+T       UNIFORM
+STEP	.9
+FUNCTION	GS
+START	.0     .0     .0
+
+ENDINPUT
+
+lunghezza step per vari casi (accettazione circa 50%):
+gs uniform = .9
+es uniform = 2.9
+gs gauss = .8    
+es gauss = 1.9
+
+per T inserire o UNIFORM o GAUSSIAN
